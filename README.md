@@ -1,5 +1,8 @@
 # tmux-tutorial
 
+[![Deploy](https://github.com/onchainyaotoshi/tmux-tutorial/actions/workflows/deploy.yml/badge.svg)](https://github.com/onchainyaotoshi/tmux-tutorial/actions/workflows/deploy.yml)
+[![Built with Cloudflare](https://workers.cloudflare.com/built-with-cloudflare.svg)](https://tmux-tutorial-5ww.pages.dev/)
+
 Interactive visual tutorial for tmux terminal multiplexer. Built with React + Tailwind CSS, deployed to Cloudflare Pages.
 
 Content is in **Indonesian (Bahasa Indonesia)**.
